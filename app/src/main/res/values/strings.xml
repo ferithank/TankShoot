@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TankWar</string>
+    <string name="tank_war">Tank War</string>
+    <string name="ba_la">Başla!</string>
+</resources>
